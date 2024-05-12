@@ -1,0 +1,2 @@
+Stop trying to decrypt the flag and decrypt the flag!
+nc 0.cloud.chals.io 30461 
